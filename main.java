@@ -1,7 +1,10 @@
 public class main {
 
     public static void main(String[] args) {
-        System.out.println("day la chuong trinh chinh cua project");
+        for (int i = 0 ; i < 11111 ; ++i ) {
+            System.out.println("day la chuong trinh chinh cua project");
+        }
+        
     }
 }
 
